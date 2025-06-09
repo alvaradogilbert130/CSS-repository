@@ -1,0 +1,30 @@
+.header{
+    font-family: monospace;
+    background: moccasin;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 8px;
+}
+
+.logo{
+    font-size: 48px;
+    font-weight: 500px;
+    color: tomato;
+    background: white;
+    padding: 4px 32px;
+}
+/*list.style show that a list can seeing*/
+ul{
+    list-style: none;
+    display: flex;
+    gap: 8px;
+    margin: 0;
+    padding: 0;
+}
+a{
+    font-size: 32px;
+    background: white;
+    text-decoration: none;
+    padding: 8px;
+}
